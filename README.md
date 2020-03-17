@@ -4,10 +4,13 @@
 
 ## Instruções iniciais
 
-<p><p>Arquivo único em formato Python - </i>versão 3.7.7</i> gerado na Plataforma <b>Anaconda</b> junto à aplicação <b>Jupyter Notebook</b> – <i>versão 6.0.1</i></p></p>
+<p>Fazer a instalação da Plataforma <b>Anaconda</b>:
+  <ol>
+    <li><a href="https://docs.anaconda.com/anaconda/install/windows/>Windows</a><br></li>
 
 
 ### Pre-requisitos
 
 Em se tratando de um arquivo no formato <code>py</code>
 
+<p><p>Arquivo único em formato Python - </i>versão 3.7.7</i> gerado na Plataforma <b>Anaconda</b> junto à aplicação <b>Jupyter Notebook</b> – <i>versão 6.0.1</i></p></p>
